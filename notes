@@ -1,3 +1,24 @@
 git status
 
 git add . 
+
+git commit -m "" 
+
+git push origin master 
+
+
+Events app with Ticketmaster API 
+
+- I'm going to welcome the user 
+- Ask for a zipcode
+- I then Return onto the terminal the list of ALL events based on zipcode 
+- Then I'm going to ask for input of w/e event they want 
+- Show some information about THAT specific event
+
+
+- CLI class - dealing with the things showing onto the terminal 
+- API class - Deal with all API things 
+- Events class - Deal with all Events
+
+
+chmod +x run - 
